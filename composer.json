@@ -1,0 +1,16 @@
+{
+    "name": "wxseo/ten-sms",
+	"description": "Laravel Tencent SMS",
+    "license": "MIT",
+    "keywords": ["Tencent SMS"],
+    "version": "^1.0",
+    "require": {
+	"php": ">=5.3.0"
+	},
+    "minimum-stability": "dev",
+    "autoload": { 
+        "psr-4": {
+            "wxseo\\ten-sms\\": "src/"
+        } 
+    }
+}
